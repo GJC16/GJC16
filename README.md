@@ -34,9 +34,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/gethsia-jennifer-c-253b21291" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35" alt="LinkedIn Badge" />
   </a>
 </div>
+
 
 ###
 
